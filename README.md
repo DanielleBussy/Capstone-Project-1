@@ -23,8 +23,12 @@ This program is useful because it displays a relatively simple, straighforward P
 The code is also well commented on so that anyone running or reading the program can follow and understand each step of the process.
 
 ### How can I use it?
+* Firstly, you need to clone this repository with the Task Manager program and related text files to a local repository on your computer, so that you can access and run the program.
+If you need help, follow the instructions as set out github help webpage: 
 
-* In order to run this program, you will need to firstly need to download the Python interpreter program onto your computer's operating system (OS) so that the Finance Calculator program can be executed.
+  * https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+
+* In order to run this program, you will then need to download the Python interpreter program onto your computer's operating system (OS) so that the Finance Calculator program can be executed.
 Navigate to the following website address to download Python on your OS (e.g. Windows, Mac, Linux etc.):
   
   * https://www.python.org/downloads/
